@@ -2,6 +2,7 @@
 
 This Telegram Bot can give you information about any character from Greek Mythology. It utilizes [Greek Api](https://github.com/newsh/GreekAPI).
 
+Check it our here: https://telegram.me/greekApiBot
 ### Some features
   - Type any name to search for characters
   - Hit the random button
